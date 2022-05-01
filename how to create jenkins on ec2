@@ -1,1 +1,2 @@
 https://learn.sandipdas.in/2021/06/03/build-docker-image-using-jenkins-pipeline/
+sudo useradd -m -s $(which bash) -G sudo <USERNAME>
